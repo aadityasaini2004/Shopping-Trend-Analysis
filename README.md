@@ -1,6 +1,6 @@
 # Shopping-Trend-Analysis
 
-zIntroduction:
+Introduction:
 
 Markdown cells explain the purpose of the notebook: analyzing shopping trends using data.
 Data Loading and Preprocessing:
